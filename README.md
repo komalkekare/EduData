@@ -33,6 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="151" alt="Main-img" src="https://user-images.githubusercontent.com/82082398/154842225-1cf4f90f-1e87-4f9c-b02f-e561d2fd5d85.PNG">
+<img width="624" alt="Capture" src="https://user-images.githubusercontent.com/82082398/154842228-210037b6-245e-4643-80c4-80270cd8b447.PNG">
+<img width="606" alt="Capture1" src="https://user-images.githubusercontent.com/82082398/154842230-e582501a-1237-4a8e-9e24-9411cb019d5f.PNG">
+
+<img width="577" alt="Capture2" src="https://user-images.githubusercontent.com/82082398/154842214-5f6f3efa-1697-463a-9855-0a4b8012c6b3.PNG">
+
+
